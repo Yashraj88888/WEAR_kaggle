@@ -1,0 +1,15 @@
+# Jupyter-generated backups
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local datasets and generated training artifacts
+data/
+models/
+outputs/
+*.pt
+*.pth
+*.ckpt
+submission*.csv
