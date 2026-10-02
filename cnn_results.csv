@@ -1,0 +1,2 @@
+model,validation_accuracy,macro_precision,macro_recall,macro_f1
+1D-CNN,0.8584403382398997,0.8714861310586237,0.8586871427463261,0.8571472662484991
