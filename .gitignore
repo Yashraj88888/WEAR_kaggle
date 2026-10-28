@@ -1,0 +1,9 @@
+# Kaggle data is not redistributed; download it into data/ (see README)
+data/
+
+# Model weights and Kaggle submission files written by the notebook
+outputs/
+
+# Python and Jupyter caches
+__pycache__/
+.ipynb_checkpoints/

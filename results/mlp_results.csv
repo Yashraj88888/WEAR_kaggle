@@ -1,0 +1,2 @@
+model,validation_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,macro_f1_without_null,parameters,epochs_trained
+MLP,0.5503640231297001,0.5318949909131381,0.6239384601127775,0.5620951524448895,0.5528343736808411,0.6463136244564407,247827,25
