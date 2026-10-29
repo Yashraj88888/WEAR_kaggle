@@ -1,0 +1,25 @@
+                              precision    recall  f1-score   support
+
+                        null     0.8098    0.2937    0.4310     46820
+                     jogging     0.6665    0.8110    0.7317      5572
+     jogging (rotating arms)     0.5205    0.3203    0.3966      4920
+          jogging (skipping)     0.5613    0.8436    0.6741      4680
+         jogging (sidesteps)     0.7132    0.6557    0.6832      4944
+        jogging (butt-kicks)     0.9305    0.7861    0.8522      4544
+        stretching (triceps)     0.3321    0.5272    0.4075      4780
+        stretching (lunging)     0.3986    0.6110    0.4824      4892
+      stretching (shoulders)     0.2183    0.4537    0.2948      4600
+     stretching (hamstrings)     0.4297    0.7006    0.5327      4436
+stretching (lumbar rotation)     0.6137    0.7576    0.6781      4624
+                    push-ups     0.3141    0.6416    0.4217      4476
+          push-ups (complex)     0.3235    0.3329    0.3281      4828
+                     sit-ups     0.4513    0.6603    0.5361      5252
+           sit-ups (complex)     0.4093    0.5008    0.4505      4756
+                     burpees     0.4214    0.5964    0.4939      4336
+                      lunges     0.2423    0.4848    0.3232      5340
+            lunges (complex)     0.3299    0.3025    0.3156      5388
+                  bench-dips     0.5683    0.5704    0.5693      4320
+
+                    accuracy                         0.4825    133508
+                   macro avg     0.4871    0.5711    0.5054    133508
+                weighted avg     0.5879    0.4825    0.4811    133508
