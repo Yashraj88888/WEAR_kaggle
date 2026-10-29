@@ -1,0 +1,2 @@
+model,trainable_parameters,validation_loss,validation_accuracy,macro_precision,macro_recall,macro_f1,validation_windows,validation_subjects
+1D-CNN,36691,1.6588978643674799,0.48245798004613955,0.48706084057157106,0.5710695708738658,0.5054074815464621,133508,"0,1,8,13,15"
