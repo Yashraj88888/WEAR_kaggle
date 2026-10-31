@@ -1,0 +1,126 @@
+Metadata 3rd WEAR Dataset Challenge:
+
+- sbj_22:
+	- Gender: Male
+	- Age: 35-39
+	- Height (in cm): 170-179
+	- Body weight (in kg): 80-89
+	- Workout frequency (per week): 3
+	- Workout type: Gym
+	- Exercises known in advance: 14
+	- Exercises performed regularly: 4 
+- sbj_23
+	- Gender: Male
+	- Age: 25-29
+	- Height (in cm): 180-189
+	- Body weight (in kg): 70-79
+	- Workout frequency (per week): 3
+	- Workout type: Gym, Cardio
+	- Exercises known in advance: 8
+	- Exercises performed regularly: 1
+- sbj_24
+	- Gender: Male
+	- Age: 35-39
+	- Height (in cm): 180-189
+	- Body weight (in kg): 80-89
+	- Workout frequency (per week): 1.5
+	- Workout type: team sport
+	- Exercises known in advance: 17
+	- Exercises performed regularly: 1
+- sbj_25
+	- Gender: Male
+	- Age: 20-24
+	- Height (in cm): 180-189
+	- Body weight (in kg): 80-89
+	- Workout frequency (per week): 3
+	- Workout type: Gym, Volleyball
+	- Exercises known in advance: most of them
+	- Exercises performed regularly: most of them
+	
+Session information:
+	- sbj_22
+		- session_1
+			- Duration: 40:30.000 
+			- Number of activities: 9
+			- Month: early-February
+			- Time-of-day: midday
+			- Location ID: 12
+			- Weather conditions: partly cloudy, around 10°C 
+		- session_2
+			- Duration: 40:10.000 
+			- Number of activities: 8
+			- Month: early-February
+			- Time-of-day: afternoon
+			- Location ID: 12
+			- Weather conditions: partly cloudy, around 10°C 
+		- session_3
+			- Duration: 02:57.000 
+			- Number of activities: 1
+			- Month: late-February
+			- Time-of-day: afternoon
+			- Location ID: 13
+			- Weather conditions: sunny, around 10°C
+	- sbj_23
+		- session_1
+			- Duration: 24:00.000 
+			- Number of activities: 9
+			- Month: late-March
+			- Time-of-day: midday
+			- Location ID: 14
+			- Weather conditions: cloudy, windy, around 10°C 
+		- session_2
+			- Duration: 26:21.000 
+			- Number of activities: 8
+			- Month: late-March
+			- Time-of-day: afternoon
+			- Location ID: 14
+			- Weather conditions: partly cloudy, windy, around 10°C 
+		- session_3
+			- Duration: 01:47.000 
+			- Number of activities: 1
+			- Month: early-February
+			- Time-of-day: afternoon
+			- Location ID: 14
+			- Weather conditions: sunny, around 10°C
+	- sbj_24
+		- session_1
+			- Duration: 17:25.000 
+			- Number of activities: 9
+			- Month: late-February
+			- Time-of-day: afternoon
+			- Location ID: 15
+			- Weather conditions: partly cloudy, around 5°C 
+		- session_2
+			- Duration: 15:50.000 
+			- Number of activities: 9
+			- Month: late-February
+			- Time-of-day: afternoon
+			- Location ID: 15 
+			- Weather conditions: cloudy, around 5°C 
+	- sbj_25
+		- session_1
+			- Duration: 16:05.000 
+			- Number of activities: 9
+			- Month: early-March
+			- Time-of-day: midday
+			- Location ID: 3
+			- Weather conditions: cloudy, windy, around 5°C 
+		- session_2
+			- Duration: 15:49.000 
+			- Number of activities: 9
+			- Month: early-March
+			- Time-of-day: midday
+			- Location ID: 3
+			- Weather conditions: cloudy, windy, around 5°C
+
+Location Information:
+- Location 3:
+	- Small square with concrete surface. Surrounded by bushes and buildings.
+- Location 12:
+	- City park in a metropolitan area. Park is surrounded by buildings.
+- Location 13:
+	- Meadow in proximity to a larger building. Area is surrounded by trees, other buildings and a road. 
+- Location 14:
+	- Concrete walkway in small park enclosed by a residential area with larger buildings facing towards the park. The walkway surrounds a small meadow. Participant performed activities while sticking to walkway.
+- Location 15:
+	- Same location as location 1, but with a newly built concrete walkway which crosses over the meadow. Participant performed activities while sticking to walkway.
